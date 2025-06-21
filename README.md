@@ -9,3 +9,5 @@ This project features a SQL-driven case study focused on SK Mart, a rapidly expa
 
 [📄 View Full Report (PDF)](https://github.com/Mdkamrulislam54/Sk-Mart-Retail-Shop-Case-Study/blob/7c3ae30aece3689ce83d30070f0d74e72d664565/SK_Mart%20Retail%20shop%20Case%20study%20using%20SQL.pdf)
 
+# Dataset Source 
+[Dataset Link](https://github.com/Mdkamrulislam54/Sk-Mart-Retail-Shop-Case-Study/blob/7d21b8058f2923df7c35c390fb2567804889e845/SK_MART%20DATASET%20.sql)
